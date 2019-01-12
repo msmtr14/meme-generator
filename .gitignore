@@ -10,7 +10,7 @@
 
 # production
 /build
-/src/actions/secrets.js
+/src/actions/secret.js
 
 # misc
 .DS_Store
